@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Present State of Hayti (Saint Domingo) with Remarks on its Agriculture,
   Commerce, Laws, Religion, Finances, and Population
 url: http://www.gutenberg.org/ebooks/48920
